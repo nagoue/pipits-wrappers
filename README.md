@@ -1,1 +1,1 @@
-# pipits
+# Galaxy wrappers for PIPITS
